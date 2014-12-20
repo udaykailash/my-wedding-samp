@@ -73,8 +73,8 @@
 	div.light_rounded .pp_content_container .pp_left,
 	div.light_rounded .pp_content_container .pp_right { background: #fff; }
 	div.light_rounded .pp_content { background-color: #fff; } /* Content background */
-	div.light_rounded .pp_next:hover { background: url(../images/prettyPhoto/light_rounded/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
-	div.light_rounded .pp_previous:hover { background: url(../images/prettyPhoto/light_rounded/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	div.light_rounded .pp_next:hover { background: url(http://4.bp.blogspot.com/-MKCoNp6LMKg/VJW3644fNuI/AAAAAAAAAPA/ji0TCI-Detk/s1600/sprite_next.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	div.light_rounded .pp_previous:hover { background: url(http://1.bp.blogspot.com/-hvV8ymJTjQY/VJW36_vTH0I/AAAAAAAAAPE/ucbzIP5-kYs/s1600/sprite_prev.png) center left no-repeat; cursor: pointer; } /* Previous button */
 	div.light_rounded .pp_expand { background: url(../images/prettyPhoto/light_rounded/sprite.png) -31px -26px no-repeat; cursor: pointer; } /* Expand button */
 	div.light_rounded .pp_expand:hover { background: url(../images/prettyPhoto/light_rounded/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.light_rounded .pp_contract { background: url(../images/prettyPhoto/light_rounded/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
@@ -110,8 +110,8 @@
 	div.dark_rounded .pp_content_container .pp_left { background: url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat-y; } /* Left Content background */
 	div.dark_rounded .pp_content_container .pp_right { background: url(../images/prettyPhoto/dark_rounded/contentPattern.png) top right repeat-y; } /* Right Content background */
 	div.dark_rounded .pp_content { background: url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat; } /* Content background */
-	div.dark_rounded .pp_next:hover { background: url(../images/prettyPhoto/dark_rounded/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
-	div.dark_rounded .pp_previous:hover { background: url(../images/prettyPhoto/dark_rounded/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	div.dark_rounded .pp_next:hover { background: url(http://4.bp.blogspot.com/-MKCoNp6LMKg/VJW3644fNuI/AAAAAAAAAPA/ji0TCI-Detk/s1600/sprite_next.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	div.dark_rounded .pp_previous:hover { background: url(http://1.bp.blogspot.com/-hvV8ymJTjQY/VJW36_vTH0I/AAAAAAAAAPE/ucbzIP5-kYs/s1600/sprite_prev.png) center left no-repeat; cursor: pointer; } /* Previous button */
 	div.dark_rounded .pp_expand { background: url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -26px no-repeat; cursor: pointer; } /* Expand button */
 	div.dark_rounded .pp_expand:hover { background: url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.dark_rounded .pp_contract { background: url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
