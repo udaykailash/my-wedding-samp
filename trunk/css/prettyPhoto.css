@@ -29,7 +29,7 @@
 	div.pp_default .pp_expand:hover { background: url(../images/prettyPhoto/default/sprite.png) 0 -56px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.pp_default .pp_contract { background: url(../images/prettyPhoto/default/sprite.png) 0 -84px no-repeat; cursor: pointer; width: 28px; height: 28px; } /* Contract button */
 	div.pp_default .pp_contract:hover { background: url(../images/prettyPhoto/default/sprite.png) 0 -113px no-repeat; cursor: pointer; } /* Contract button hover */
-	div.pp_default .pp_close { width: 30px; height: 30px; background: url(../images/prettyPhoto/default/sprite.png) 2px 1px no-repeat; cursor: pointer; } /* Close button */
+	div.pp_default .pp_close { width: 30px; height: 30px; background: url(http://3.bp.blogspot.com/-SU5YljkNwHk/VDcITdPVs8I/AAAAAAAAALE/6LRYcIWyY9s/s1600/close.png) 2px 1px no-repeat; cursor: pointer; } /* Close button */
 	div.pp_default #pp_full_res .pp_inline { color: #000; } 
 	div.pp_default .pp_gallery ul li a { background: url(../images/prettyPhoto/default/default_thumb.png) center center #f8f8f8; border:1px solid #aaa; }
 	div.pp_default .pp_gallery ul li a:hover,
@@ -79,7 +79,7 @@
 	div.light_rounded .pp_expand:hover { background: url(../images/prettyPhoto/light_rounded/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.light_rounded .pp_contract { background: url(../images/prettyPhoto/light_rounded/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
 	div.light_rounded .pp_contract:hover { background: url(../images/prettyPhoto/light_rounded/sprite.png) 0 -47px no-repeat; cursor: pointer; } /* Contract button hover */
-	div.light_rounded .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/light_rounded/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	div.light_rounded .pp_close { width: 75px; height: 22px; background: url(http://3.bp.blogspot.com/-SU5YljkNwHk/VDcITdPVs8I/AAAAAAAAALE/6LRYcIWyY9s/s1600/close.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
 	div.light_rounded .pp_details { position: relative; }
 	div.light_rounded .pp_description { margin-right: 85px; }
 	div.light_rounded #pp_full_res .pp_inline { color: #000; } 
@@ -116,7 +116,7 @@
 	div.dark_rounded .pp_expand:hover { background: url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.dark_rounded .pp_contract { background: url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
 	div.dark_rounded .pp_contract:hover { background: url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -47px no-repeat; cursor: pointer; } /* Contract button hover */
-	div.dark_rounded .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/dark_rounded/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	div.dark_rounded .pp_close { width: 75px; height: 22px; background: url(http://3.bp.blogspot.com/-SU5YljkNwHk/VDcITdPVs8I/AAAAAAAAALE/6LRYcIWyY9s/s1600/close.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
 	div.dark_rounded .pp_details { position: relative; }
 	div.dark_rounded .pp_description { margin-right: 85px; }
 	div.dark_rounded .currentTextHolder { color: #c4c4c4; }
@@ -189,7 +189,7 @@
 	div.light_square .pp_expand:hover { background: url(../images/prettyPhoto/light_square/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.light_square .pp_contract { background: url(../images/prettyPhoto/light_square/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
 	div.light_square .pp_contract:hover { background: url(../images/prettyPhoto/light_square/sprite.png) 0 -47px no-repeat; cursor: pointer; } /* Contract button hover */
-	div.light_square .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/light_square/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	div.light_square .pp_close { width: 75px; height: 22px; background: url(http://3.bp.blogspot.com/-SU5YljkNwHk/VDcITdPVs8I/AAAAAAAAALE/6LRYcIWyY9s/s1600/close.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
 	div.light_square .pp_details { position: relative; }
 	div.light_square .pp_description { margin-right: 85px; }
 	div.light_square #pp_full_res .pp_inline { color: #000; }
@@ -225,7 +225,7 @@
 	div.facebook .pp_expand:hover { background: url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
 	div.facebook .pp_contract { background: url(../images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat; cursor: pointer; } /* Contract button */
 	div.facebook .pp_contract:hover { background: url(../images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat; cursor: pointer; } /* Contract button hover */
-	div.facebook .pp_close { width: 22px; height: 22px; background: url(../images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	div.facebook .pp_close { width: 22px; height: 22px; background: url(http://3.bp.blogspot.com/-SU5YljkNwHk/VDcITdPVs8I/AAAAAAAAALE/6LRYcIWyY9s/s1600/close.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
 	div.facebook .pp_details { position: relative; }
 	div.facebook .pp_description { margin: 0 37px 0 0; }
 	div.facebook #pp_full_res .pp_inline { color: #000; } 
